@@ -1,7 +1,7 @@
 ---
 name: Typo error
 about: Select when there typo error
-title: "[Typo]: "
+title: '[Typo]: '
 labels: bug
 assignees: dalisoft
 ---
@@ -14,9 +14,8 @@ assignees: dalisoft
 
 ## Type
 
-- [ ] Node.js Hosting
-- [ ] VPS
-- [ ] Static hosting
+- [ ] Local
+- [ ] Providers
 
 ## Description
 
@@ -26,4 +25,4 @@ _Please describe your issue_
 
 _Please link here to verify your way_
 
-## Thanks for reporting!
+## Thanks for reporting

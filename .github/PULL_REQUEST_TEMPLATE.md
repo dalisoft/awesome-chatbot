@@ -1,4 +1,4 @@
-# PR: Thank you!
+# PR: Thank you
 
 ## Reason
 
@@ -9,9 +9,8 @@
 
 ## Type
 
-- [ ] Node.js Hosting
-- [ ] VPS
-- [ ] Static hosting
+- [ ] Local
+- [ ] Providers
 
 ## Name
 

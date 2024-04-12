@@ -1,7 +1,7 @@
 ---
 name: License violation
 about: Select there license violation
-title: "[License Violation]: "
+title: '[License Violation]: '
 labels: bug
 assignees: dalisoft
 ---
@@ -14,9 +14,8 @@ assignees: dalisoft
 
 ## Type
 
-- [ ] Node.js Hosting
-- [ ] VPS
-- [ ] Static hosting
+- [ ] Local
+- [ ] Providers
 
 ## Link
 

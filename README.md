@@ -17,7 +17,6 @@ List of all local or self-hosted AI Chat-bots
 | [Gemma 7b](https://huggingface.co/google/gemma-7b)               | Google   | Smart                            |
 | [CodeGemma 2b](https://huggingface.co/google/codegemma-2b)       | Google   | Fast, Coding, Autocomplete       |
 | [CodeGemma 7b](https://huggingface.co/google/codegemma-7b)       | Google   | Smart, Coding, Autocomplete      |
-| [CodeGemma 2b-it](https://huggingface.co/google/codegemma-2b)    | Google   | Fast, Coding, Autocomplete       |
 | [CodeGemma 7b-it](https://huggingface.co/google/codegemma-7b-it) | Google   | Smart, Coding, Chat, Instruction |
 | [Llama 2](https://llama.meta.com/llama2)                         | Meta     | Coding                           |
 | [Minstral](https://docs.mistral.ai/models)                       | Minstral | Fast, Smart                      |

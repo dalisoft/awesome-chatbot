@@ -21,6 +21,11 @@ List of all local or self-hosted AI Chat-bots
 | [Llama 2](https://llama.meta.com/llama2)                         | Meta     | Coding                           |
 | [Minstral](https://docs.mistral.ai/models)                       | Minstral | Fast, Smart                      |
 | [Starcoder2](https://github.com/bigcode-project/starcoder2)      | BigCode  | Smart, Coding                    |
+| [Yi 34B](https://huggingface.co/01-ai/Yi-34B)                    | 01-AI    | Smart                            |
+| [Yi 34B-200K](https://huggingface.co/01-ai/Yi-34B-200K)          | 01-AI    | Smart, Larger context            |
+| [Yi 34B-Chat](https://huggingface.co/01-ai/Yi-34B-Chat)          | 01-AI    | Smart, Chat, Instruction         |
+| [Yi 9B](https://huggingface.co/01-ai/Yi-9B)                      | 01-AI    | Fast                             |
+| [Yi 9B-200K](https://huggingface.co/01-ai/Yi-9B-200K)            | 01-AI    | Fast, Larger context             |
 
 ---
 
@@ -42,8 +47,8 @@ List of all company provided AI Chat-bots
 | [Claude](https://claude.ai)                                         | Anthropic   | Free          |                       |
 | [Claude Pro](https://claude.ai)                                     | Anthropic   | 20$/m         |                       |
 | [Grok 1.5](https://x.ai)                                            | xAI         | Free          |                       |
-| [Minstral](https://mistral.ai)                                      | Minstral    | Free          |                       |
-| [Minstral Large](https://mistral.ai)                                | Minstral    | Pay-as-you-Go | Smart, Online         |
+| [Le Chat](https://chat.mistral.ai/chat)                             | Minstral    | Free          |                       |
+| [Le Chat Subscription](https://mistral.ai)                          | Minstral    | Pay-as-you-Go | Smart, Online         |
 
 ## Resources
 

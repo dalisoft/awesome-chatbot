@@ -19,6 +19,7 @@ List of all local or self-hosted AI Chat-bots
 | [CodeGemma 7b](https://huggingface.co/google/codegemma-7b)       | Google   | Smart, Coding, Autocomplete      |
 | [CodeGemma 7b-it](https://huggingface.co/google/codegemma-7b-it) | Google   | Smart, Coding, Chat, Instruction |
 | [Llama 2](https://llama.meta.com/llama2)                         | Meta     | Coding                           |
+| [Llama 3](https://llama.meta.com/llama3)                         | Meta     | Coding, Smart                    |
 | [Minstral 7b](https://docs.mistral.ai/models)                    | Minstral | Fast                             |
 | [Mixtral 8x7b](https://docs.mistral.ai/models)                   | Minstral | Fast, Smart                      |
 | [Starcoder2](https://github.com/bigcode-project/starcoder2)      | BigCode  | Smart, Coding                    |

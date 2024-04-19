@@ -29,6 +29,7 @@ List of all local or self-hosted AI Chat-bots
 | [Yi 34B-Chat](https://huggingface.co/01-ai/Yi-34B-Chat)                                     | 01-AI    | Smart, Chat, Instruction         |
 | [Yi 9B](https://huggingface.co/01-ai/Yi-9B)                                                 | 01-AI    | Fast                             |
 | [Yi 9B-200K](https://huggingface.co/01-ai/Yi-9B-200K)                                       | 01-AI    | Fast, Larger context             |
+| [Falcon 130B](https://huggingface.co/tiiuae/falcon-180B)                                    | TIIae    | Smart, Larger context            |
 
 ---
 
@@ -58,6 +59,7 @@ List of all company provided AI Chat-bots
 - <https://github.com/ollama/ollama>
 - <https://ollama.com/library>
 - <https://chat.lmsys.org/?leaderboard>
+- <https://openrouter.ai>
 
 ---
 

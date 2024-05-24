@@ -66,6 +66,7 @@ List of all company provided AI Chat-bots
 - <https://ollama.com/library>
 - <https://chat.lmsys.org/?leaderboard>
 - <https://evalplus.github.io/leaderboard.html>
+- <https://prollm.toqan.ai/leaderboard/coding-assistant-recent>
 - <https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard>
 - <https://openrouter.ai>
 - <https://github.com/Troyanovsky/Local-LLM-Comparison-Colab-UI>

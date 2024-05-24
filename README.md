@@ -16,7 +16,8 @@ List of all local or self-hosted AI Chat-bots
 | [Gemma](https://huggingface.co/blog/gemma)                                                  | Google   | Fast/Smart                         |
 | [CodeGemma](https://huggingface.co/blog/codegemma)                                          | Google   | Fast/Smart, Code/Chat/Autocomplete |
 | [Llama 2](https://llama.meta.com/llama2)                                                    | Meta     | Coding                             |
-| [Llama 3](https://llama.meta.com/llama3)                                                    | Meta     | Coding, Smart                      |
+| [Llama 3](https://llama.meta.com/llama3)                                                    | Meta     | Chat, Smart                        |
+| [CodeLlama](https://github.com/meta-llama/codellama)                                        | Meta     | Coding, Smart                      |
 | [Minstral 7b](https://docs.mistral.ai/models)                                               | Minstral | Fast                               |
 | [Mixtral 8x7b](https://docs.mistral.ai/models)                                              | Minstral | Fast, Smart                        |
 | [Laser Dolphin 2x7b-dpo](https://huggingface.co/macadeliccc/laser-dolphin-mixtral-2x7b-dpo) | ?        | Fast, Smart?                       |
@@ -26,6 +27,12 @@ List of all local or self-hosted AI Chat-bots
 | [Command R](https://huggingface.co/CohereForAI/c4ai-command-r-v01-4bit)                     | cohere   |                                    |
 | [Xwin-LM](https://github.com/Xwin-LM/Xwin-LM)                                               | Xwin-LM? | Fast or Smart?                     |
 | [Coder](https://huggingface.co/deepseek-ai)                                                 | DeepSeek | Smart, Coding                      |
+| [Qwen 1.5](https://github.com/QwenLM/Qwen1.5)                                               | Alibaba  | Smart                              |
+| [Qwen](https://github.com/QwenLM/Qwen)                                                      | Alibaba  |                                    |
+| [CodeQwen](https://github.com/QwenLM/CodeQwen1.5)                                           | Alibaba  | Smart, Coding                      |
+| [Phind](https://huggingface.co/Phind)                                                       | Phind    | Coding?                            |
+| [WizardLM](https://github.com/nlpxucan/WizardLM)                                            | ?        | Smart, Coding                      |
+| [CodeBooga](https://huggingface.co/oobabooga/CodeBooga-34B-v0.1)                            | ?        | Coding?                            |
 
 ---
 
@@ -58,6 +65,8 @@ List of all company provided AI Chat-bots
 - <https://github.com/ollama/ollama>
 - <https://ollama.com/library>
 - <https://chat.lmsys.org/?leaderboard>
+- <https://evalplus.github.io/leaderboard.html>
+- <https://huggingface.co/spaces/bigcode/bigcode-models-leaderboard>
 - <https://openrouter.ai>
 - <https://github.com/Troyanovsky/Local-LLM-Comparison-Colab-UI>
 

@@ -60,6 +60,23 @@ List of all company provided AI Chat-bots
 | [Codeium](https://codeium.com)                                      | codeium     | Free          | Smart, Coding         |
 | [Coder](https://coder.deepseek.com)                                 | DeepSeek    | Free?         | Smart, Coding         |
 
+---
+
+## LLM/Inference API
+
+> Minimal plan and/or price is referred for price per million token
+> (input/output) for LLAMA 3 70B models
+
+| Name                                          | Minimal plan                                                            | Trial      | Free | Open Source |
+| --------------------------------------------- | ----------------------------------------------------------------------- | ---------- | ---- | ----------- |
+| [Groq](https://groq.com)                      | -                                                                       |            | Yes  |             |
+| [Deepinfra](https://deepinfra.com)            | [Pricing](https://deepinfra.com/pricing) (0.59/0.79 \$/M token)         |            |      |             |
+| [Gradient AI](https://gradient.ai)            | [Pricing](https://gradient.ai/pricing) (0.9/0.9 \$/M token)             | $5 credit  |      |             |
+| [together.ai](https://together.a)             | [Pricing](https://together.a/pricing) (0.9/0.9 \$/M token)              | $5 credit  |      |             |
+| [anyscale](https://anyscale.com)              | [Pricing](https://anyscale.com/pricing) (1/1 $/M token)                 | $50 credit |      |             |
+| [Replicate](https://replicate.com)            | [Pricing](https://replicate.com/pricing) (0.65/2.75 $/M token)          |            |      |             |
+| [AWS Bedrock](https://aws.amazon.com/bedrock) | [Pricing](https://aws.amazon.com/bedrock/pricing) (1.95/2.56 $/M token) |            |      |             |
+
 ## Resources
 
 - <https://github.com/ollama/ollama>

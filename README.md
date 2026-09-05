@@ -51,6 +51,7 @@ List of all company provided AI Chat-bots
 | [Gemini Advanced](https://gemini.google.com)                        | Google      | 20$/m         | Online, Google One    |
 | [Gemini Pro 1.5](https://aistudio.google.com/app/waitlist/97445851) | Google      | Free          | Smart, Online         |
 | [HuggingChat](https://huggingface.co/chat)                          | HuggingFace | Free          | Online                |
+| [WSUP AI](https://wsupai.app/)                                      | Ownland     | Free          | Character chat, no signup, SFW |
 | [Claude](https://claude.ai)                                         | Anthropic   | Free          |                       |
 | [Claude Pro](https://claude.ai)                                     | Anthropic   | 20$/m         |                       |
 | [Grok 1.5](https://x.ai)                                            | xAI         | Free          |                       |

@@ -59,9 +59,8 @@ List of all company provided AI Chat-bots
 | [Command R+](https://cohere.com/command)                            | cohere      | Pay-as-you-Go | Smart?                |
 | [Codeium](https://codeium.com)                                      | codeium     | Free          | Smart, Coding         |
 | [Coder](https://coder.deepseek.com)                                 | DeepSeek    | Free?         | Smart, Coding         |
-| [Atendente24h](https://atendente24h.com)                            | Atendente24h | R$197/m (BR) | WhatsApp, AI, SMBs    |
-
-| [Quad Chat](https://www.quad.chat/) | Quad Labs | Free; from $8/m | Multi-model chat, search, images, files |
+| [Atendente24h](https://atendente24h.com)                            | Atendente24h| R$197/m (BR)  | WhatsApp, AI, SMBs    |
+| [Quad Chat](https://www.quad.chat/)                                 | Quad Labs   | 8$/m          | Media, Online         |
 
 ---
 

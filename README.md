@@ -61,6 +61,7 @@ List of all company provided AI Chat-bots
 | [Coder](https://coder.deepseek.com)                                 | DeepSeek    | Free?         | Smart, Coding         |
 | [Atendente24h](https://atendente24h.com)                            | Atendente24h| R$197/m (BR)  | WhatsApp, AI, SMBs    |
 | [Quad Chat](https://www.quad.chat/)                                 | Quad Labs   | 8$/m          | Media, Online         |
+| [WSUP AI](https://wsupai.app)                                       | Ownland     | Free          | Chat, Characters      |
 
 ---
 
